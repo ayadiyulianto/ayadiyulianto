@@ -12,7 +12,7 @@ An independent Software Engineer who loves to create and share projects about we
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://vuejs.org/"><img align="left" alt="Vue" title="Vue" width="21px" src="https://vuejs.org/images/logo.svg" /></a>
+  <a href="https://vuejs.org/"><img align="left" alt="Vue" title="Vue" width="21px" src="https://docs.vuejs.id/images/logo.png" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://android.com/"><img align="left" alt="Android" title="Android" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png" /></a>
   <br>
